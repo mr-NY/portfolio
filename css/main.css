@@ -633,6 +633,17 @@ body {
 }
 /* .......END_FOOTER......................... */
 @media (max-width: 991px) {
+   .offers {
+      min-height: 1290px;
+      padding: 35px 0;
+   }
+   .offers__item:not(:last-child) {
+      padding-bottom: 0px;
+      margin-bottom: 0px;
+   }
+   .offers__textarea {
+      padding: 60px 45px;
+   }
    .text-square {
       z-index: 2;
       background: rgba(176, 142, 173, 0.8);
