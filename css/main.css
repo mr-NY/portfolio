@@ -44,8 +44,6 @@ body {
    margin: 0 auto;
 }
 /* ........HEADER........................ */
-.header {
-}
 .header__body {
    position: relative;
    display: flex;
